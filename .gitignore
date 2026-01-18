@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Whitelist smart_scale and its contents
+!smart_scale/
+!smart_scale/**
+
+# Whitelist this ignore file (optional, but good practice)
+!.gitignore
